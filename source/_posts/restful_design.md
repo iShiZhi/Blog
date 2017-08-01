@@ -1,6 +1,6 @@
 ---
 title: 理解 RESTful
-categories: 架构
+categories: 网站开发
 tags: ["API设计"]
 date: 2017-07-18
 ---
